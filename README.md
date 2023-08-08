@@ -1,2 +1,2 @@
 # Capsula-do-tempo
-Projeto Front-End realizado na semana de imersão da Rocketseat.
+Projeto de Front-End realizado na semana de imersão da Rocketseat.
